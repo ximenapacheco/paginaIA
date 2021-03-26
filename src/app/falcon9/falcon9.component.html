@@ -1,0 +1,39 @@
+<h2>Rocket Falcon 9</h2>
+<img class="imagen" src="assets/img/falcon9.jpg">
+<br>
+<table class="table table-striped">
+    <thead class="thead">
+      <tr class="enca">
+        <th scope="col">Nombre</th>
+        <th scope="col">Serie</th>
+        <th scope="col">Lugar_Lanzamiento</th>
+        <th scope="col">Fecha_Lanzamiento</th>
+        <th scope="col">Lugar_Aterrizaje</th>
+        <th scope="col">Nombre_Mision</th>
+        <th scope="col">Tipo_Mision</th>
+        <th scope="col">Tipo_Carga</th>
+        <th scope="col">Tipo_Motor</th>
+        <th scope="col">Material</th>
+        <th scope="col">Combustible</th>
+        <th scope="col">Numero_Reutizaciones</th>
+        <th scope="col">Estado</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let cohete of falcon9" class="datos">
+            <th scope="row">{{cohete.Nombre}}</th>
+                <td>{{cohete.Serie}}</td>
+                <td>{{cohete.Lugar_Lanzamiento}}</td>
+                <td>{{cohete.Fecha_Lanzamiento}}</td>
+                <td>{{cohete.Lugar_Aterrizaje}}</td>
+                <td>{{cohete.Nombre_Mision}}</td>
+                <td>{{cohete.Tipo_Mision}}</td>
+                <td>{{cohete.Tipo_Carga}}</td>
+                <td>{{cohete.Tipo_Motor}}</td>
+                <td>{{cohete.Material}}</td>
+                <td>{{cohete.Combustible}}</td>
+                <td>{{cohete.Numero_Reutizaciones}}</td>
+                <td>{{cohete.Estado}}</td>
+        </tr>
+    </tbody>
+</table>

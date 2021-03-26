@@ -1,0 +1,47 @@
+[
+    {
+        "Nombre": "Startship",
+        "Serie": "SN10",
+        "Lugar_Lanzamiento": "Boca Chica",
+        "Fecha_Lanzamiento": "03/03/2021",
+        "Lugar_Aterrizaje": "Aterrizaje Fallido",
+        "Nombre_Mision": "SN10",
+        "Tipo_Mision": "Prueba",
+        "Tipo_Carga": "Prueba",
+        "Tipo_Motor": "Raptor",
+        "Material": "Acero Inoxidable",
+        "Combustible": "CH4-LOX",
+        "Numero_Reutizaciones": 0,
+        "Estado": "Fuera de servicio"
+    },
+    {
+        "Nombre": "Startship",
+        "Serie": "SN9",
+        "Lugar_Lanzamiento": "Boca Chica",
+        "Fecha_Lanzamiento": "02/02/2021",
+        "Lugar_Aterrizaje": "Sin aterrizaje",
+        "Nombre_Mision": "SN9",
+        "Tipo_Mision": "Prueba",
+        "Tipo_Carga": "Prueba",
+        "Tipo_Motor": "Raptor",
+        "Material": "Acero Inoxidable",
+        "Combustible": "CH4-LOX",
+        "Numero_Reutizaciones": 0,
+        "Estado": "Fuera de servicio"
+    },
+    {
+        "Nombre": "Startship",
+        "Serie": "SN8",
+        "Lugar_Lanzamiento": "Boca Chica",
+        "Fecha_Lanzamiento": "09/12/2020",
+        "Lugar_Aterrizaje": "Sin aterrizaje",
+        "Nombre_Mision": "SN8",
+        "Tipo_Mision": "Prueba",
+        "Tipo_Carga": "Prueba",
+        "Tipo_Motor": "Raptor",
+        "Material": "Acero Inoxidable",
+        "Combustible": "CH4-LOX",
+        "Numero_Reutizaciones": 0,
+        "Estado": "Fuera de servicio"
+    }
+]

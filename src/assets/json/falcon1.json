@@ -1,0 +1,32 @@
+[
+    {
+        "Nombre": "Falcon 1",
+        "Serie": "Merlin1A",
+        "Lugar_Lanzamiento": "Kwajalein Atoll Omelek Island",
+        "Fecha_Lanzamiento": "24/03/2016",
+        "Lugar_Aterrizaje": "Sin aterrizaje",
+        "Nombre_Mision": "Falcon Sat",
+        "Tipo_Mision": "Comercial",
+        "Tipo_Carga": "Satelites",
+        "Tipo_Motor": "Merlin",
+        "Material": "Fibra de carbono, aluminio y litio",
+        "Combustible": "LOX/RP-1",
+        "Numero_Reutizaciones": 0,
+        "Estado": "Fuera de servicio"
+    },
+    {
+        "Nombre": "Falcon 1",
+        "Serie": "Merlin2C",
+        "Lugar_Lanzamiento": "Kwajalein Atoll Omelek Island",
+        "Fecha_Lanzamiento": "28/09/2018",
+        "Lugar_Aterrizaje": "Sin aterrizaje",
+        "Nombre_Mision": "RatSat",
+        "Tipo_Mision": "Comercial",
+        "Tipo_Carga": "Satelites",
+        "Tipo_Motor": "Merlin",
+        "Material": "Fibra de carbono, aluminio y litio",
+        "Combustible": "LOX/RP-1",
+        "Numero_Reutizaciones": 0,
+        "Estado": "Fuera de servicio"
+    }
+]

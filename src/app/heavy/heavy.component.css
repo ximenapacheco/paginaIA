@@ -1,0 +1,33 @@
+h2{
+    text-align: center;
+    font-style: normal;
+    font-family: Broadway;
+    font-size: 30px;
+}
+
+.imagen{
+    width: 50%;
+    display:block;
+    margin:auto;
+}
+
+table{
+    margin: 5px;
+    padding: 10px;
+    width: 95%;
+    display:block;
+    margin:auto;
+}
+
+.enca{
+    color: black;
+    background-color: rgb(155, 191, 240);
+    font-family: Arial;
+    text-align: center;
+    font-style: italic;
+}
+
+.datos{
+    font-family: 'Times New Roman';
+    text-align: center;
+}
